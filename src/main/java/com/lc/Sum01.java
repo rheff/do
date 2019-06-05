@@ -1,3 +1,5 @@
+package com.lc;
+
 public class Sum01 {
 
     public int[] twoSumM1(int[] nums, int target) {
