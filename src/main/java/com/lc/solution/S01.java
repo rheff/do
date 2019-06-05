@@ -1,6 +1,6 @@
-package com.lc;
+package com.lc.solution;
 
-public class Sum01 {
+public class S01 {
 
     public int[] twoSumM1(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {

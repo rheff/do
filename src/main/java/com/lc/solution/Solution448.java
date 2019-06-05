@@ -1,4 +1,4 @@
-package com.lc;
+package com.lc.solution;
 
 import java.util.ArrayList;
 import java.util.List;
